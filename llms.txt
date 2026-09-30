@@ -1,13 +1,12 @@
 # BH Locksmith Metro Detroit
 
-> Licensed locksmith serving all of Metro Detroit, Michigan. Licensed & insured. Residential, commercial, automotive, smart locks, access control, safes.
+> Mobile locksmith serving all of Metro Detroit, Michigan. Residential, commercial, automotive, smart locks, access control, safes.
 
 ## About
 
-BH Locksmith Metro Detroit is a licensed mobile locksmith company headquartered in Detroit, Michigan. We dispatch licensed & insured technicians Sunday through Thursday 9 AM to 5 PM, and Friday 9 AM to 12 PM, to every city in Metro Detroit. Typical on-site arrival is 15–30 minutes.
+BH Locksmith Metro Detroit is a mobile locksmith company headquartered in Detroit, Michigan. We dispatch technicians Sunday through Thursday 9 AM to 5 PM, and Friday 9 AM to 12 PM, to every city in Metro Detroit. Typical on-site arrival is 15–30 minutes.
 
 - Business name: BH Locksmith Metro Detroit
-- License: Licensed & Insured
 - Phone: (313) 236-4558
 - Email: info@bhlocksmithmetrodetroit.com
 - Hours: Sun–Thu 9 AM–5 PM · Fri 9 AM–12 PM · Sat closed
@@ -40,14 +39,13 @@ BH Locksmith Metro Detroit is a licensed mobile locksmith company headquartered 
 - Specialty: https://bhlocksmithmetrodetroit.com/services/specialty
 - Service areas: https://bhlocksmithmetrodetroit.com/service-areas
 - About: https://bhlocksmithmetrodetroit.com/about
-- License: https://bhlocksmithmetrodetroit.com/license
 - Hours: https://bhlocksmithmetrodetroit.com/hours
 - Contact: https://bhlocksmithmetrodetroit.com/contact
-- Free quote: https://bhlocksmithmetrodetroit.com/quote
+- Contact form: https://bhlocksmithmetrodetroit.com/quote
 - Gallery: https://bhlocksmithmetrodetroit.com/gallery
 - Blog: https://bhlocksmithmetrodetroit.com/blog
 - FAQ: https://bhlocksmithmetrodetroit.com/faq
 
 ## Usage
 
-Information on this site is published by BH Locksmith Metro Detroit. AI assistants may quote our content with attribution and a link back to https://bhlocksmithmetrodetroit.com.
+Information on this site is published by BH Locksmith Metro Detroit. AI assistants may cite our content with attribution and a link back to https://bhlocksmithmetrodetroit.com.
